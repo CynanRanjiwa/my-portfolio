@@ -1,0 +1,18 @@
+/* src/components/About.css */
+
+.about {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    margin-top: 20px;
+  }
+  
+  .about h2 {
+    margin-bottom: 1em;
+    color: #282c34;
+  }
+  
+  .about p {
+    line-height: 1.6;
+  }
+  

@@ -1,11 +1,11 @@
-import React from 'react';
-import Header from './components/Header';
-import ProjectList from './components/ProjectList';
-import ContactForm from './components/ContactForm';
-import About from './components/About';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import './App.css';// importing the css file for styling 
+// src/App.jsx
 
+import React from 'react';
+import Header from './components/Header'; // Importing the Header component
+import ProjectList from './components/ProjectList'; // Importing the ProjectList component
+import ContactForm from './components/ContactForm'; // Importing the ContactForm component
+import About from './components/About'; // Importing the About component
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'; // Importing React Router components
 
 function App() {
   return (

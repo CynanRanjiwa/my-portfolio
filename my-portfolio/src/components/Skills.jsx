@@ -24,4 +24,4 @@ function skills () {
     );
 }
 
-export default skills;
+export default skills; // Exporting the Skills component
